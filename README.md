@@ -18,12 +18,22 @@ Mistral-7B-v0.1 is a transformer model, with the following architecture choices:
 
 ## Requirement
 
-my environment python3.9, pytorch & cuda12.4 &　30gb ram　＆ i7-13700 & gtx 1060
+- my environment python3.9, pytorch & cuda12.4 &　30gb ram　＆ i7-13700 & gtx 1060
 
-model: https://huggingface.co/mistralai/Mistral-7B-v0.1
+- model: https://huggingface.co/mistralai/Mistral-7B-v0.1
 
-cpu version & gpu version can inference  & prediction this model
+- cpu version & gpu version can inference  & prediction this model
 
-gpu version is  faster than cpu version
+- huggingface token
 
-huggingface token
+## Demo
+
+- cpu inference  & prediction
+
+ ![cpu](https://github.com/weitsunglin/Mistral-7B-v0.1/blob/main/cpu.jpg)
+
+- gpu inference  & prediction
+  
+ ![gpu](https://github.com/weitsunglin/Mistral-7B-v0.1/blob/main/gpu.jpg)
+
+ gpu version is  faster than cpu version lol
