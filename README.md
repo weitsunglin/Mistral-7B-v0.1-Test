@@ -18,7 +18,7 @@ Mistral-7B-v0.1 is a transformer model, with the following architecture choices:
 
 ## Requirement
 
-- my environment python3.9, pytorch & cuda12.4 &　30gb ram　＆ i7-13700 & gtx 1060
+- my environment python3.9, pytorch & cuda12.4 &　32gb ram　＆ i7-13700 & gtx 1060
 
 - model: https://huggingface.co/mistralai/Mistral-7B-v0.1
 
